@@ -23,6 +23,15 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats &amp; Top Languages</h2>
+
+<p align="center">
+  <img src="./stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./languages.svg" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 <h3 align="center">🐍 Watch the snake eat my contributions</h3>
 
 <p align="center">
