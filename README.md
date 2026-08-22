@@ -6,7 +6,7 @@
   <img src="./terminal.svg?v=final" alt="Terminal" width="100%" />
 </p>
 
-<h2 align="center">🛠️ Tech Stack & Tooling</h2>
+<h2 align="center">🛠️ Tech Stack &amp; Tooling</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0b1120?style=for-the-badge&logo=python&logoColor=7dd3fc" />
@@ -23,15 +23,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats &amp; Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehasish-code&show_icons=true&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8&icon_color=7dd3fc&border_color=1e293b&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-code&layout=compact&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasish-code&show_icons=true&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8&icon_color=7dd3fc&border_color=1e293b&border_radius=10&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-code&layout=compact&bg_color=0b1120&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=10&v=2" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=snehasish-code&background=0b1120&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&currStreakNum=f8fafc&sideNums=7dd3fc&sideLabels=94a3b8&border=1e293b&border_radius=10" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=snehasish-code&background=0b1120&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&currStreakNum=f8fafc&sideNums=7dd3fc&sideLabels=94a3b8&border=1e293b&border_radius=10&v=fresh2" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
