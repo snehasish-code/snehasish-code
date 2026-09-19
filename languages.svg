@@ -4,6 +4,10 @@
       
         <circle cx="35" cy="75" r="5" fill="#38bdf8"/>
         <text x="50" y="80" fill="#94a3b8" font-size="14" font-family="sans-serif">Python</text>
-        <text x="350" y="80" fill="#7dd3fc" font-size="14" font-weight="bold" font-family="sans-serif">100.0%</text>
+        <text x="350" y="80" fill="#7dd3fc" font-size="14" font-weight="bold" font-family="sans-serif">66.7%</text>
+        
+        <circle cx="35" cy="105" r="5" fill="#7dd3fc"/>
+        <text x="50" y="110" fill="#94a3b8" font-size="14" font-family="sans-serif">TypeScript</text>
+        <text x="350" y="110" fill="#7dd3fc" font-size="14" font-weight="bold" font-family="sans-serif">33.3%</text>
         
     </svg>
